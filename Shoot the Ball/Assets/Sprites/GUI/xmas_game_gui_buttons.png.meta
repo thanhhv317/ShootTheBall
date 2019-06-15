@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: f760880795d88a84793041009e6a9d33
+timeCreated: 1512470893
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: xmas_game_gui_buttons_0
+    21300002: xmas_game_gui_buttons_1
+    21300004: xmas_game_gui_buttons_2
+    21300006: xmas_game_gui_buttons_3
+    21300008: xmas_game_gui_buttons_4
+    21300010: xmas_game_gui_buttons_5
+    21300012: xmas_game_gui_buttons_6
+    21300014: xmas_game_gui_buttons_7
+    21300016: xmas_game_gui_buttons_8
+    21300018: xmas_game_gui_buttons_9
+    21300020: xmas_game_gui_buttons_10
+    21300022: xmas_game_gui_buttons_11
+    21300024: xmas_game_gui_buttons_12
+    21300026: xmas_game_gui_buttons_13
+    21300028: xmas_game_gui_buttons_14
+    21300030: xmas_game_gui_buttons_15
+    21300032: xmas_game_gui_buttons_16
+    21300034: xmas_game_gui_buttons_17
+    21300036: xmas_game_gui_buttons_18
+    21300038: xmas_game_gui_buttons_19
+    21300040: xmas_game_gui_buttons_20
+    21300042: xmas_game_gui_buttons_21
+    21300044: xmas_game_gui_buttons_22
+    21300046: xmas_game_gui_buttons_23
+    21300048: xmas_game_gui_buttons_24
+    21300050: xmas_game_gui_buttons_25
+    21300052: xmas_game_gui_buttons_26
+    21300054: xmas_game_gui_buttons_27
+    21300056: xmas_game_gui_buttons_28
+    21300058: xmas_game_gui_buttons_29
+    21300060: xmas_game_gui_buttons_30
+    21300062: xmas_game_gui_buttons_31
+    21300064: xmas_game_gui_buttons_32
+    21300066: xmas_game_gui_buttons_33
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_0
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1275
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1260
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 898
+        width: 696
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 892
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 886
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_5
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 888
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 881
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_7
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 864
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_8
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 856
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 1095
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 199
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 329
+        width: 194
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 329
+        width: 194
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 329
+        width: 193
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_14
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 329
+        width: 194
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_15
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 332
+        width: 182
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_16
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 332
+        width: 182
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_17
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 332
+        width: 181
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 199
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 164
+        width: 194
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 164
+        width: 194
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 164
+        width: 193
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_22
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 164
+        width: 194
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_23
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 167
+        width: 182
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_24
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 167
+        width: 182
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_25
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 167
+        width: 181
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 199
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 194
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_28
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 194
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 193
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_30
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 194
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_31
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 3
+        width: 182
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_32
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 3
+        width: 182
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_33
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 3
+        width: 181
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
